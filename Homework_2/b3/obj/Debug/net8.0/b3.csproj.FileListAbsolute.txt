@@ -1,0 +1,14 @@
+D:\wyf\VS_code\C#\Homework_2\b3\bin\Debug\net8.0\b3.exe
+D:\wyf\VS_code\C#\Homework_2\b3\bin\Debug\net8.0\b3.deps.json
+D:\wyf\VS_code\C#\Homework_2\b3\bin\Debug\net8.0\b3.runtimeconfig.json
+D:\wyf\VS_code\C#\Homework_2\b3\bin\Debug\net8.0\b3.dll
+D:\wyf\VS_code\C#\Homework_2\b3\bin\Debug\net8.0\b3.pdb
+D:\wyf\VS_code\C#\Homework_2\b3\obj\Debug\net8.0\b3.GeneratedMSBuildEditorConfig.editorconfig
+D:\wyf\VS_code\C#\Homework_2\b3\obj\Debug\net8.0\b3.AssemblyInfoInputs.cache
+D:\wyf\VS_code\C#\Homework_2\b3\obj\Debug\net8.0\b3.AssemblyInfo.cs
+D:\wyf\VS_code\C#\Homework_2\b3\obj\Debug\net8.0\b3.csproj.CoreCompileInputs.cache
+D:\wyf\VS_code\C#\Homework_2\b3\obj\Debug\net8.0\b3.dll
+D:\wyf\VS_code\C#\Homework_2\b3\obj\Debug\net8.0\refint\b3.dll
+D:\wyf\VS_code\C#\Homework_2\b3\obj\Debug\net8.0\b3.pdb
+D:\wyf\VS_code\C#\Homework_2\b3\obj\Debug\net8.0\b3.genruntimeconfig.cache
+D:\wyf\VS_code\C#\Homework_2\b3\obj\Debug\net8.0\ref\b3.dll
